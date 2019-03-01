@@ -1,6 +1,9 @@
 <center>
 <img src="xgboost2.JPG">
 
+**XGBoost project - binary classification and regression models**
+(https://github.com/Benchjoker/XGBoost/blob/master/XGBoost.ipynb) - This notebook demonstrates how to use XGBoost for classification and regression problems to maximize the prediction accuracy and uncover complex risk factor relationships.
+
 ### Table of Contents:
 1. Goals and final targets definition
 2. Data preparation for modeling, various models and encoding technique	analysis:
@@ -21,5 +24,3 @@
 6. Confusion matrix and threshhold tuning
 7. Effort to improve the results-Stacking implementation
 
-- **XGBoost project - binary classification and regression models**
-(https://github.com/Benchjoker/XGBoost/blob/master/XGBoost.ipynb) - This notebook demonstrates how to use XGBoost for classification and regression problems to maximize the prediction accuracy and uncover complex risk factor relationships.
