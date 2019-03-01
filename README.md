@@ -10,13 +10,13 @@
    - Various models and encoding technique analysis
    - Final panel preparation for the model
 3. Models comparison:
-  - Models evaluation prior implementing a cross validation: Accuracy and log loss 
-  - Models evaluation using a cross validation: Accuracy, Log loss, Recall, Precision, F-score and AUC
+   - Models evaluation prior implementing a cross validation: Accuracy and log loss 
+   - Models evaluation using a cross validation: Accuracy, Log loss, Recall, Precision, F-score and AUC
 4. Learning Curves:
-  - Train data errors vs Cross validation errors
-  - Accuracy vs Number of trees and max depth 
+   - Train data errors vs Cross validation errors
+   - Accuracy vs Number of trees and max depth 
 5. Explore the model in order to improve the results:
-  - Hyperparameters tuning and optimization
-  - Early stop strategy
+   - Hyperparameters tuning and optimization
+   - Early stop strategy
 6. Confusion matrix and threshhold tuning
 7. Effort to improve the results-Stacking implementation
