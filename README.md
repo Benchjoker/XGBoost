@@ -1,7 +1,7 @@
 <center>
 <img src="xgboost2.JPG">
 
-## Workflow stages:
+## Table of Contents:
 1. Goals and final targets definition
 2. Data preparation for modeling, various models and encoding technique	analysis
   - Features with NaN values analysis
