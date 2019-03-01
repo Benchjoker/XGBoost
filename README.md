@@ -21,4 +21,5 @@
 6. Confusion matrix and threshhold tuning
 7. Effort to improve the results-Stacking implementation
 
-- [**XGBoost project - binary classification and regression models**](https://slundberg.github.io/shap/notebooks/NHANES%20I%20Survival%20Model.html) - Using mortality data from 20 years of followup this notebook demonstrates how to use XGBoost and `shap` to uncover complex risk factor relationships.
+- [**XGBoost project - binary classification and regression models**]
+(https://github.com/Benchjoker/XGBoost/blob/master/XGBoost.ipynb) - Using mortality data from 20 years of followup this notebook demonstrates how to use XGBoost and `shap` to uncover complex risk factor relationships.
