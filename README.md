@@ -1,15 +1,15 @@
-<center>
+###<center>
 <img src="xgboost2.JPG">
 
 ### Table of Contents:
 1. Goals and final targets definition
-2. Data preparation for modeling, various models and encoding technique	analysis
+2. Data preparation for modeling, various models and encoding technique	analysis:
   - Features with NaN values analysis
   - Dealing with categorical features
   - Cross validation strategy
   - Various models and encoding technique analysis
   - Final panel preparation for the model
-3. Models comparison
+3. Models comparison:
   - Models evaluation prior implementing a cross validation: Accuracy and log loss 
   - Models evaluation using a cross validation: Accuracy, Log loss, Recall, Precision, F-score and AUC
 4. Learning Curves:
